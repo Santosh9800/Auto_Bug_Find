@@ -1,63 +1,102 @@
-# Username-OSINT-Finder
-Username OSINT Finder is a powerful, beginner-friendly tool that you can use to check the presence of any given username on multiple social media platforms — like Facebook, Instagram, TikTok, YouTube, Twitter, Reddit, Telegram, Snapchat, and many more.  This tool is specially designed for ethical hacking and cyber investigation purposes
-
-## 📖 About the Tool
-
-**Username OSINT Finder** is a powerful command-line tool designed for ethical hackers, cybersecurity learners, and investigators. This tool helps you discover a username's presence across **16+ popular platforms** including Facebook, Instagram, TikTok, Twitter, YouTube, Reddit, and more.
-
-Use it to find a person’s digital footprint in seconds — fast, reliable, and cool hacker-styled output.
-
----
-
-## ✨ Features
-
-- 🔍 Scan usernames on 16+ top social media platforms
-- ⚡ Fast and clean output with color-coded status
-- 🎯 Banner-styled UI for an attractive hacker look
-- 🔒 Works offline (except internet queries)
-- 🧠 Beginner friendly & open source
-
----
-
-## 📦 Supported Platforms
-
-
----
-
-## 🛠️ Installation
-
-Make sure Python 3 is installed. Then follow these steps:
-
-### 🔹 Clone the repository
-
-```bash
-git clone https://github.com/yourusername/username-osint-finder.git
-cd username-osint-finder
-pip install requests pyfiglet termcolor
-python information.py
+# Master in White Devil Recon Toolkit
 
 ```
+███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ██████╗ ██╗   ██╗
+██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔══██╗╚██╗ ██╔╝
+█████╗  ███████║██╔██╗ ██║   ██║   ██║   ██║██████╔╝ ╚████╔╝ 
+██╔══╝  ██╔══██║██║╚██╗██║   ██║   ██║   ██║██╔═══╝   ╚██╔╝  
+██║     ██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║        ██║   
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝        ╚═╝   
+```
+
+\#BugBounty #Recon #HackerStyle #Santosh #MasterInWhiteDevil #OSINT #CyberSecurity #Automation #Version0.0.1
+
 ---
 
-✅ **Next Steps for You:**
-1. Rename `information.py` → something like `osint-finder.py` (optional)
-2. Create a `README.md` in the repo and paste the above content
-3. Add your actual GitHub username and email where marked
+## 🔥 Description
 
-<br> 
-## 💰 Support my work
+**Master in White Devil Recon Toolkit** is a **pro-level automated recon script** for bug bounty hunters and cybersecurity researchers. 🚀
 
-If you liked this tool and want me to keep making more ethical tools like this:
+This toolkit will install & manage the most powerful recon tools like:
 
-- [☕ Donate on BuyMeACoffee](https://buymeacoffee.com/santoshchhetri)
+* Subfinder
+* Httpx
+* Dnsx
+* Naabu
+* Katana
+* Arjun
+* Dalfox
+* Nuclei
 
-- [💻 Join on Patreon](https://patreon.com/santoshchhetri)
+All in **one place**, with a **hacker-style interface** and **system info detection**.
 
-- [💸 Donate with PayPal](https://paypal.me/santoshchhetri)
+\#BugBounty #ReconToolkit #ProLevel #Automation #CyberAttackSurface
 
-Your support will motivate me to make more legal ethical hacking tools!
-<br><br>
-<p align="center">
-  <b>Multi-Social Platform Username Scanner</b><br>
-  <i>By <a href="https://github.com/yourusername">Santosh Chhetri</a> | Channel: Master in White Devil</i>
-</p>
+---
+
+## ⚡ Features
+
+* Auto installation of **top recon tools** 🛠️
+* **System Info Display** (OS, IP, Location, Version)
+* **Dark Hacker-Style Banner** with credits
+* Supports **future updates v0.0.2 (coming soon)**
+
+\#SystemInfo #OSDetect #IPDetect #LocationDetect #FutureUpdate
+
+---
+
+## 📥 Installation
+
+```bash
+git clone https://github.com/santosh-white-devil/Master-in-white-devil-recon.git
+cd Master-in-white-devil-recon
+chmod +x install.sh
+./install.sh
+```
+
+\#Subfinder #Httpx #Dnsx #Naabu #Katana #Arjun #Dalfox #Nuclei
+
+---
+
+## 🚀 Usage Example
+
+```bash
+./install.sh
+```
+
+* Choose option from hacker menu
+* Tools get installed automatically
+* Start your recon journey 👨‍💻
+
+\#HackerMenu #AutoInstall #ReconAutomation
+
+---
+
+## 🎯 Future Updates (v0.0.2)
+
+* Live **IP to GeoLocation Map** 🌍
+* **Jarvis-style Voice Feedback** 🎙️
+* Extra tool integrations
+
+\#Version0.0.2 #FutureUpdate #JarvisStyle #GeoLocation
+
+---
+
+## 🤝 Support & Community
+
+If you like this project, don’t forget to:
+
+* ⭐ Star this repo
+* 👍 Like
+* 🔁 Share
+* 📺 Subscribe on YouTube: [Master in White Devil](https://www.youtube.com/@MasterinWhiteDevil)
+
+\#Like #Share #Subscribe #YouTube #MasterInWhiteDevil
+
+---
+
+## ⚠️ Disclaimer
+
+This project is made for **educational purposes only**. Unauthorized usage for illegal activity is strictly prohibited 🚫.
+
+\#Legal #EthicalHacking #EducationOnly
