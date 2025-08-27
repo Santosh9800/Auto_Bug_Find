@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝        ╚═╝   
 ```
 
-\#BugBounty #Recon #HackerStyle #Santosh #MasterInWhiteDevil #OSINT #CyberSecurity #Automation #Version0.0.1
+#BugBounty #Recon #HackerStyle #Santosh #MasterInWhiteDevil #OSINT #CyberSecurity #Automation #Version0.0.1
 
 ---
 
@@ -28,9 +28,9 @@ This toolkit will install & manage the most powerful recon tools like:
 * Dalfox
 * Nuclei
 
-All in **one place**, with a **hacker-style interface** and **system info detection**.
+All in **one place**, with and **system info detection**.
 
-\#BugBounty #ReconToolkit #ProLevel #Automation #CyberAttackSurface
+#BugBounty #ReconToolkit #ProLevel #Automation #CyberAttackSurface
 
 ---
 
@@ -38,10 +38,9 @@ All in **one place**, with a **hacker-style interface** and **system info detect
 
 * Auto installation of **top recon tools** 🛠️
 * **System Info Display** (OS, IP, Location, Version)
-* **Dark Hacker-Style Banner** with credits
 * Supports **future updates v0.0.2 (coming soon)**
 
-\#SystemInfo #OSDetect #IPDetect #LocationDetect #FutureUpdate
+#SystemInfo #OSDetect #IPDetect #LocationDetect #FutureUpdate
 
 ---
 
@@ -54,7 +53,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-\#Subfinder #Httpx #Dnsx #Naabu #Katana #Arjun #Dalfox #Nuclei
+#Subfinder #Httpx #Dnsx #Naabu #Katana #Arjun #Dalfox #Nuclei
 
 ---
 
@@ -68,7 +67,7 @@ chmod +x install.sh
 * Tools get installed automatically
 * Start your recon journey 👨‍💻
 
-\#HackerMenu #AutoInstall #ReconAutomation
+#HackerMenu #AutoInstall #ReconAutomation
 
 ---
 
@@ -91,7 +90,7 @@ If you like this project, don’t forget to:
 * 🔁 Share
 * 📺 Subscribe on YouTube: [Master in White Devil](https://youtube.com/@mastersinwhitedevil)
 
-\#Like #Share #Subscribe #YouTube #MasterInWhiteDevil
+#Like #Share #Subscribe #YouTube #MasterInWhiteDevil
 
 ---
 
