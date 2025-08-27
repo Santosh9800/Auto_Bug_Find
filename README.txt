@@ -89,7 +89,7 @@ If you like this project, don’t forget to:
 * ⭐ Star this repo
 * 👍 Like
 * 🔁 Share
-* 📺 Subscribe on YouTube: [Master in White Devil](https://www.youtube.com/@MasterinWhiteDevil)
+* 📺 Subscribe on YouTube: [Master in White Devil](https://youtube.com/@mastersinwhitedevil)
 
 \#Like #Share #Subscribe #YouTube #MasterInWhiteDevil
 
