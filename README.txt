@@ -72,7 +72,6 @@ chmod +x install.sh
 ## 🎯 Future Updates (v0.0.2)
 
 * Live **IP to GeoLocation Map** 🌍
-* **Jarvis-style Voice Feedback** 🎙️
 * Extra tool integrations
 
 \#Version0.0.2 #FutureUpdate #GeoLocation
@@ -96,4 +95,4 @@ If you like this project, don’t forget to:
 
 This project is made for **educational purposes only**. Unauthorized usage for illegal activity is strictly prohibited 🚫.
 
-\#Legal #EthicalHacking #EducationOnly
+#Legal #EthicalHacking #EducationOnly
