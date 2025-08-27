@@ -48,8 +48,8 @@ All in **one place**, with a **hacker-style interface** and **system info detect
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/santosh-white-devil/Master-in-white-devil-recon.git
-cd Master-in-white-devil-recon
+git clone https://github.com/Santosh9800/Auto_Bug_Find.git
+cd Auto_Bug_Find
 chmod +x install.sh
 ./install.sh
 ```
@@ -61,7 +61,7 @@ chmod +x install.sh
 ## 🚀 Usage Example
 
 ```bash
-./install.sh
+./auto_bug_scan.sh
 ```
 
 * Choose option from hacker menu
@@ -78,7 +78,7 @@ chmod +x install.sh
 * **Jarvis-style Voice Feedback** 🎙️
 * Extra tool integrations
 
-\#Version0.0.2 #FutureUpdate #JarvisStyle #GeoLocation
+\#Version0.0.2 #FutureUpdate #GeoLocation
 
 ---
 
